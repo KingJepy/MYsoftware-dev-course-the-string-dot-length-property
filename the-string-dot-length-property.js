@@ -26,5 +26,11 @@ let lengthThree; // Length of stringThree
 
 // Your code here
 
-
-
+// take the undefined variables and set them equal to your sring variables with .length at the end
+lengthOne = stringOne.length
+lengthTwo = stringTwo.length
+lengthThree = stringThree.length
+// print each line
+console.log(lengthOne);
+console.log(lengthTwo);
+console.log(lengthThree);
